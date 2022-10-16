@@ -20,4 +20,5 @@ Aplikasi ini menggunakan beberapa dependencies dari expo yaitu
 1. Menginstall Expo Go pada perangkat Android
 2. Membuka Aplikasi Expo Go yang telah ter-isntall, kemudian tekan "Scan QR Code"
 3. scan QR code
-   ![qr](qr.png)
+
+- ![qr](qr.png)
