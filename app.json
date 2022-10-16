@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "pacarNgingetin",
+    "slug": "pacar-ngingetin",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./src/icon.png",
+          "color": "#fcd7dc",
+          "sounds": [
+            "./src/onican.wav"
+          ]
+        }
+      ]
+    ],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.topel.punya.pacar"
+    }
+  }
+}
